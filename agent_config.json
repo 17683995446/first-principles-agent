@@ -1,0 +1,15 @@
+{
+  "LOOP_SLEEP": 0.5,
+  "EVOLVE_CYCLE": 50,
+  "KG_PATH": "agent_kg_first_principles.json",
+  "TASK_MAX_LEN": 200,
+  "CONTEXT_MAX_LEN": 100,
+  "MAX_EXECUTION_DEPTH": 10,
+  "WEIGHT_DECAY_RATE": 0.05,
+  "WEIGHT_BOOST_RATE": 0.2,
+  "SAVE_EVERY_N": 5,
+  "LLM_ENABLED": true,
+  "LLM_DEMO_MODE": false,
+  "API_BASE": "https://api.siliconflow.cn/v1",
+  "LLM_MODEL": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
+}
