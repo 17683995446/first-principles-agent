@@ -154,7 +154,7 @@ SAVE_EVERY_N = 5          # 保存间隔
 LLM_ENABLED = True        # 是否启用LLM
 LLM_DEMO_MODE = False     # LLM演示模式
 # ====================== API配置 ======================
-API_KEY = "sk-uqelhavcdhfxjzjesdenxpbtqombamjniazzjtbssmdcwdvg"
+API_KEY = "REDACTED_API_KEY"
 API_BASE = "https://api.siliconflow.cn/v1"
 LLM_MODEL = "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
 # =====================================================
@@ -183,7 +183,7 @@ class Config:
     # LLM配置
     LLM_ENABLED = True
     LLM_DEMO_MODE = False
-    API_KEY = "sk-uqelhavcdhfxjzjesdenxpbtqombamjniazzjtbssmdcwdvg"
+    API_KEY = "REDACTED_API_KEY"
     API_BASE = "https://api.siliconflow.cn/v1"
     LLM_MODEL = "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
     
